@@ -1,1 +1,2 @@
-GoWeek - Rocket Seat - Thiago Novato
+GoWeek - Rocket Seat
+Thiago Novato
